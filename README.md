@@ -1,5 +1,5 @@
 # login-page
 
-follow and support me
+follow and support me 
 
-<img src="login-page-by-Alexander-Migday.jpg"/>
+<img src="login-page-by-Alexander-Migday.jpg" align = "center"/>
